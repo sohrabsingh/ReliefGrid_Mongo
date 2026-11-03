@@ -1,0 +1,7 @@
+node_modules/
+.env
+dist/
+*.log
+.mongo-data/
+.mongo-shard/
+ReliefGrid_MongoDB_Project.pptx
